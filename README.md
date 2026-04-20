@@ -71,3 +71,4 @@ This module extends `spring-ai-commons` and `spring-ai-model` — no new externa
 
 - Issue: [spring-projects/spring-ai#5464](https://github.com/spring-projects/spring-ai/issues/5464)
 - `TokenTextSplitter`: Spring AI's fixed-token-count splitter (complementary)
+- 
